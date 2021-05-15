@@ -1,0 +1,1339 @@
+﻿Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ImanShare...
+Service ImanShare has been successfully installed.
+Creating EventLog source ImanShare in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ImanShare.
+Service ImanShare is being removed from the system...
+Service ImanShare was successfully removed from the system.
+Attempt to stop service ImanShare.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Warning: The source ShareContent is not registered on the local machine.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Warning: The source ShareContent is not registered on the local machine.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Creating EventLog source ShareContent in log Application...
+Rolling back assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Restoring event log to previous state for source ShareContent.
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Warning: The source ShareContent is not registered on the local machine.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Creating EventLog source ShareContent in log Application...
+Rolling back assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Restoring event log to previous state for source ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Creating EventLog source ShareContent in log Application...
+Rolling back assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Restoring event log to previous state for source ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Attempt to stop service ShareContent.
+Installing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+   assemblypath = C:\Users\Iman\Documents\Visual Studio 2015\Projects\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logfile = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logfile = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+Uninstalling assembly 'C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logfile = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+Removing EventLog source ShareContent.
+Service ShareContent is being removed from the system...
+Service ShareContent was successfully removed from the system.
+Installing assembly 'C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logfile = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog
+Installing service ShareContent...
+Service ShareContent has been successfully installed.
+Creating EventLog source ShareContent in log Application...
+Committing assembly 'C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe'.
+Affected parameters are:
+   logtoconsole = 
+   i = 
+   assemblypath = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.exe
+   logfile = C:\Users\Iman\Dropbox\My Projects\My C#\ImanShareContent\ImanShareContent\bin\Debug\ImanShareContent.InstallLog

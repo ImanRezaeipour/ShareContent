@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ImanShareContent.API.BitlyAPI" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\BitlyAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.FacebookAPI" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\FacebookAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.GoogleAPI" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\GoogleAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.GoogleDriveAPI" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\GoogleDriveAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.GooglePlusAPI" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\GooglePlusAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.GoogleURLShortnerAPI" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\GoogleURLShortnerAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.InstagramAPI" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\InstagramAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.LinkedInAPI" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\LinkedInAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.TelegramAPI" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\TelegramAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.TwitterAPI" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\TwitterAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.WikipediaAPI" Collapsed="true">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\WikipediaAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.API.WordPressAPI" Collapsed="true">
+    <Position X="4" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>API\WordPressAPI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Common.ConvertCommon" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\ConvertCommon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Common.DateTimeCommon" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Common\DateTimeCommon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Common.HtmlCommon" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Common\HtmlCommon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Common.JsonCommon" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAQAAAAAAAAAAAAAAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Common\JsonCommon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Common.TextCommon" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAACAAAAAAAAAAAABABAQAA=</HashCode>
+      <FileName>Common\TextCommon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Content.TechnologyContent" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Content\TechnologyContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Model.ContentModel" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECEgAAAAAAAAAAAAAAAASAACAAEgAACAAAAAAAAQA=</HashCode>
+      <FileName>Model\ContentModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Model.PostModel" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQACAAAAAgEAACAEIAEQgEEAEAAAAAAACACIQAAACAg=</HashCode>
+      <FileName>Model\PostModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Model.PostRepository" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\PostRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Model.WordModel" Collapsed="true">
+    <Position X="2.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\WordModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Model.Repository.ContentRepository" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\ContentRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Model.Repository.WordRepository" Collapsed="true">
+    <Position X="7.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Repository\WordRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Program" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.ProjectInstaller" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACABAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProjectInstaller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.ShareContent" Collapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAEEAAAEgCAAAACAAAAAAAAAECAAAAAAAI=</HashCode>
+      <FileName>ShareContent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Publish.AndroidPublish" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publish\AndroidPublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Publish.FacebookPublish" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publish\FacebookPublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Publish.InstagramPublish" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publish\InstagramPublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Publish.MVCWebSitePublish" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publish\MVCWebSitePublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Publish.TelegramPublish" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publish\TelegramPublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Publish.WordPressPublish" Collapsed="true">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Publish\WordPressPublish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Service.SportService" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\SportService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ImanShareContent.Service.WeatherService" Collapsed="true">
+    <Position X="9.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Service\WeatherService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ImanShareContent.Model.PostCategoryType" Collapsed="true">
+    <Position X="0.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAEAAAAAAAAAAAAAAAAAAAMAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Model\Type\PostCategoryType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImanShareContent.Model.PostContentType">
+    <Position X="2.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAACAAgAEAAAAAAAAAAAACAAAAIAAAAAg=</HashCode>
+      <FileName>Model\Type\PostContentType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="ImanShareContent.Model.PostPriorityType" Collapsed="true">
+    <Position X="4" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAAAAAgIAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Model\Type\PostPriorityType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,25 @@
+[{
+	"Id": "101",
+	"Name": "zoomg",
+	"WebAddress": "http://zoomg.ir",
+	"FeedAddress": "http://zoomg.ir/feed",
+	"HaveRoot": "1",
+	"ItemNode": "//item",
+	"ItemLink": "link",
+	"ItemShortArticle": "description",
+	"PostCaption": "//h1[@class='main-title']",
+	"PostPhoto": "//div[@class='featured-image-inner']//img",
+	"PostArticle": "//div[@id='content-anchor-inner']"
+},{
+	"Id": "102",
+	"Name": "digiato",
+	"WebAddress": "http://digiato.com/",
+	"FeedAddress": "http://digiato.com/feed",
+	"HaveRoot": "0",
+	"ItemNode": "//item",
+	"ItemLink": "link",
+	"ItemShortArticle": "description",
+	"PostCaption": "//article//header//h2//a",
+	"PostPhoto": "//a[@class='entry-content-img']//img",
+	"PostArticle": "//article[@class='entry-content']"
+}]
